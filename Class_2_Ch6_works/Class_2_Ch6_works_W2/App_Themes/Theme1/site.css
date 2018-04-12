@@ -1,0 +1,28 @@
+﻿
+body {
+    font-family:Arial,Verdana;
+    font-size:12px;
+    color:red;
+}
+#tbl #header{
+    /*width:250px;*/
+    background-color:#fadddd;
+
+
+}
+#tbl #menu{
+    width:250px;
+    background-color:#fadddd;
+
+
+}
+
+#tbl #content{
+    width:650px;
+    background-color:#faBddd;
+
+
+}
+#tbl #footer{
+background-color:#fadddd;
+}

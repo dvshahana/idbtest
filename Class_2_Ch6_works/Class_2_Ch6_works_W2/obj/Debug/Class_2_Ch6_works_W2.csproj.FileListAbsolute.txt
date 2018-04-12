@@ -1,0 +1,5 @@
+E:\IDB\Core\r-33\Module-6\Class_2\Class_2_Ch6_works\Class_2_Ch6_works_W2\bin\Class_2_Ch6_works_W2.dll.config
+E:\IDB\Core\r-33\Module-6\Class_2\Class_2_Ch6_works\Class_2_Ch6_works_W2\bin\Class_2_Ch6_works_W2.dll
+E:\IDB\Core\r-33\Module-6\Class_2\Class_2_Ch6_works\Class_2_Ch6_works_W2\bin\Class_2_Ch6_works_W2.pdb
+E:\IDB\Core\r-33\Module-6\Class_2\Class_2_Ch6_works\Class_2_Ch6_works_W2\obj\Debug\Class_2_Ch6_works_W2.dll
+E:\IDB\Core\r-33\Module-6\Class_2\Class_2_Ch6_works\Class_2_Ch6_works_W2\obj\Debug\Class_2_Ch6_works_W2.pdb

@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Class_2_Ch6_works_W2.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <table id="tbl">
+            <tr id="header">
+                <td colspan="2">
+                   <img src="" alt="No image" />
+                </td>
+            </tr>
+            <tr>
+                <td id="menu">
+                    <ul>
+                         <li>
+                            <a href="Home.aspx">Home</a>
+                        </li>
+                        <li>
+                            <a href="About.aspx">About</a>
+                        </li>
+                        <li>
+                            <a href="Index.aspx">Form1</a>
+                        </li>
+                    </ul>
+                </td>
+                <td id="content">
+
+                    <div>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </td>
+            </tr>
+            <tr id="footer">
+                <td colspan="2">
+                    <span class="glyphicon glyphicon-asterisk"></span>
+                  <span class="glyphicon glyphicon-apple" ></span> Developed by 
+                     <span class="glyphicon glyphicon-eye-open"></span>
+                </td>
+            </tr>
+        </table>
+
+    </form>
+</body>
+</html>
